@@ -59,4 +59,3 @@ Hi, I'm <b>*Suraj*,</b> 🙌! I am currently diving deeper into NLP, exploring B
 <code><img height="20" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></code>
 <code><img height="20" src="https://langchain.com/favicon.ico"></code>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=brownbeast-spec&show_icons=true&hide_border=true)
