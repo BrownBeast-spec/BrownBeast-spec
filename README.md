@@ -1,61 +1,70 @@
-### Hello World 👋 It's [Suraj!](https://sakigo9.github.io/MyPortfolio/)
+# Hi there! I'm Suraj Harlekar
 
-<br/>
+<div align="center">
+  
+**NLP Enthusiast & Deep Learning Developer**
 
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" height="200" alt="Cute Cat Coding"/>
 
-<!--<a href="https://twitter.com/sakigo_09">-->
-<!--<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />-->
-</a>
-<a href="https://www.linkedin.com/in/SurajHarlekar/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<!--<a href="https://medium.com/@saketprag322">-->
-<!--<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />-->
-</a>
-<a href="https://www.instagram.com/suraj.py/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<!--<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">-->
-<!--<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />-->
-</a>
-<br />
+</div>
 
-<br />
+---
 
-Hi, I'm <b>*Suraj*,</b> 🙌! I am currently diving deeper into NLP, exploring BERT, RESNET50, and Transformers. I actively engage in design, focusing on UI/UX and web design. Additionally, I have a growing interest in competitive programming and problem-solving. ❤✌
+## About Me
 
+- Currently diving deep into **NLP, BERT, and Transformers**
+- Passionate about **UI/UX Design** and **Competitive Programming**
+- **Hackathon Enthusiast** with multiple achievements
+- Building intelligent systems that make a difference
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
+## Recent Achievements
 
-**Talking about Personal Stuffs:**
+| Event | Position | Year |
+|-------|----------|------|
+| Bhartiya Antariksha Hackathon | **Finalist** | 2024 |
+| CIDECODE | **Runner up** | 2024 |
+| SuRaksha Hackathon (Canara Bank) | **2nd Runner up** | 2025 |
 
-<!--- 🔭 I’m currently Intern at CodeCrunch.-->
-- 🌱 I’m currently learning Natural Language Processing (NLP) and Deep Learning.
-- 👯 Part of UI/UX Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-<!--- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)-->
-- 📝 I am Working on My Portfolio, will update soon here!
-- ✨ I design using tools like **Figma**, and I also showcase my artwork on my [Instagram page](https://www.instagram.com/vortexinkstudios).
+---
 
+## 🛠Tech Stack
 
+**Languages:** Python • C++ • SQL  
+**ML/AI:** PyTorch • HuggingFace • Scikit-learn • BERT • ResNet50  
+**Tools:** Git • Figma • MySQL • LangChain  
+**Focus:** Natural Language Processing • Deep Learning • UI/UX
 
-**Community**
-- Cyber Security Club, IIIT Kottayam
-- Enigma(AI/ML) Club, IIIT Koyttayam
+---
 
-**Languages and Tools:**
+## GitHub Stats
 
+<div align="center">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png"></code>
-<code><img height="20" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png"></code>
-<code><img height="20" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></code>
-<code><img height="20" src="https://langchain.com/favicon.ico"></code>
+![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&theme=vue&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakigo9&layout=compact&theme=vue&hide_border=true)
+
+</div>
+
+---
+
+## Let's Connect!
+
+<p align="center">
+<a href="https://www.linkedin.com/in/SurajHarlekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://sakigo9.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.instagram.com/suraj.py/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/vortexinkstudios"><img src="https://img.shields.io/badge/Art_Studio-FFC0CB?style=for-the-badge&logo=adobe&logoColor=black" alt="Art Studio"></a>
+</p>
+
+---
+
+<div align="center">
+
+**Open to collaborating on NLP projects and UI/UX design!**
+
+*Ex-member: Cyber Security Club & Enigma (AI/ML) Club, IIIT Kottayam*
+
+</div>
