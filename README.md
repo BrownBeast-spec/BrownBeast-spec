@@ -23,17 +23,17 @@
 
 <div align="center">
 
-| 🏆 Event | 📍 Position | 📅 Year |
+| Event | Position | Year |
 |----------|-------------|---------|
-| **Bhartiya Antariksha Hackathon** | 🥉 **Finalist** | 2024 |
-| **CIDECODE** | 🥈 **Runner up** | 2024 |
-| **SuRaksha Hackathon (Canara Bank)** | 🥉 **2nd Runner up** | 2025 |
+| **Bhartiya Antariksha Hackathon** | **Finalist** | 2024 |
+| **CIDECODE** | **Runner up** | 2024 |
+| **SuRaksha Hackathon (Canara Bank)** | **2nd Runner up** | 2025 |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 
 ## Current Focus
 
-<div align="center">
+<div align="left">
 
 <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="300" alt="Happy Coder"/>
 
