@@ -34,12 +34,12 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=serqeta&theme=radical&show_icons=true&count_private=true" alt="github stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=qetser&theme=radical&show_icons=true&count_private=true" alt="github stats">
       <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=serqeta&theme=radical&hide_border=false" alt="streak stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=qetser&theme=radical&hide_border=false" alt="streak stats">
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serqeta&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="top languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qetser&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact" alt="top languages">
     </td>
   </tr>
 </table>
@@ -47,7 +47,7 @@
 <!-- Trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=serqeta&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy">
+    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=qetser&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="trophy">
   </a>
 </div>
 
@@ -137,14 +137,14 @@
   <a href="mailto:surajharlekar@gmail.com" target="blank">
     <img src="https://img.icons8.com/color/96/gmail-new.png" alt="email" height="50" width="50">
   </a>
-  <a href="https://github.com/serqeta" target="blank">
+  <a href="https://github.com/qetser" target="blank">
     <img src="https://img.icons8.com/ios-glyphs/120/000000/github.png" alt="github" height="50" width="50">
   </a>
 </p>
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=serqeta&label=Profile%20views&color=ff007f&style=for-the-badge" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=qetser&label=Profile%20views&color=ff007f&style=for-the-badge" alt="profile views">
 </div>
 
 <!--horizontal divider (gradient)-->
