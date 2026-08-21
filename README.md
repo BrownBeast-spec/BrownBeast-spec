@@ -6,7 +6,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=serqeta&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qetser&theme=redical&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph">
 </div>
 
 <!-- Tagline -->
